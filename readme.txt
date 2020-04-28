@@ -1,1 +1,1 @@
-nice to meet u!
+Creating a new branch is quick AND simple.
